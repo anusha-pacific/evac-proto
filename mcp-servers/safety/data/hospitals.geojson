@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.755282768,
+          35.8780951459
+        ]
+      },
+      "properties": {
+        "name": "日義保健センター",
+        "primary": "health",
+        "tags": [
+          "health"
+        ],
+        "dataId": "8655f49f-71d0-4f86-add9-e95cbbba79a3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.965171928,
+          36.6167667693
+        ]
+      },
+      "properties": {
+        "name": "小川村保健センター",
+        "primary": "health",
+        "tags": [
+          "health"
+        ],
+        "dataId": "cefcbcff-e90b-49fa-b7ae-9006a54c2b30",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    }
+  ]
+}

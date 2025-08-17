@@ -1,0 +1,380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ｒ５亀有・万世橋出張所管内屋外無線ＬＡＮ設備他設置工事",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "1996f507-7933-494d-b062-cb67f04cd883",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79916666666668,
+          35.74805555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "震災記念の碑",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "c6051596-5104-4093-b083-1379352b842a",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765196,
+          35.695972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "綱島小学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "edbb1e65-252c-4a57-b147-0423462c3dd0",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627952,
+          35.537394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中川中学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "503f1d5c-ef2d-4dcb-8143-990c81404ff1",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.593233,
+          35.551197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "荏田南小学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "54e31e66-5082-4170-910b-66abbac3cc44",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.556515,
+          35.544725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大師中学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "d3282fe2-e6c7-4f6b-981d-65dcfb86be78",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.738886,
+          35.535255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "川和中学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "d797bb12-f417-49e9-b764-692e1d903f57",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.557126,
+          35.531004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "殿町小学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "28b792b4-4c2f-4682-ad08-f953e1382838",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.745469,
+          35.537505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東山田小学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "448be642-2e68-4523-b7a8-5c2c9e9c8ed7",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.595704,
+          35.564417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "茅ヶ崎中学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "beb92e3d-4790-4e11-8db2-8bf82c31c16a",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.582142,
+          35.540711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "荏田東第一小学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "cea0e7de-2abd-40b1-b676-ac9f4938c49e",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.562514,
+          35.547002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "美しが丘東小学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "e9dd4e90-7f10-47ae-948c-2ae0c380eb36",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.560484,
+          35.582386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "山田小学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "ede4e7bc-b65c-4424-8134-8d47a7b7c388",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.603184,
+          35.559719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東住吉小学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "3cc21395-d8bb-415a-9579-7b372490a938",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.657976,
+          35.569417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "御幸小学校",
+        "description": "",
+        "publisher": "",
+        "datasetId": "",
+        "dataId": "456170b3-35bf-49d2-a956-69005a81c2b0",
+        "prefecture": "",
+        "municipality": "",
+        "updatedAt": "",
+        "fileUrl": "",
+        "source": "MLIT",
+        "tags": [
+          "避難施設"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692057,
+          35.543226
+        ]
+      }
+    }
+  ]
+}

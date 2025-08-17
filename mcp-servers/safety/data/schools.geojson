@@ -1,0 +1,3038 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.597669,
+          35.4563019991
+        ]
+      },
+      "properties": {
+        "name": "雌子小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d26669be-856b-4ee2-9e22-42fc27fc7205",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629344,
+          35.352806
+        ]
+      },
+      "properties": {
+        "name": "西柴中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d90aff3f-f3e2-4a00-8c35-7dea730bee71",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59954,
+          35.432684
+        ]
+      },
+      "properties": {
+        "name": "井土ヶ谷小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "dfe5efce-9557-4e43-8f5d-39497fe26620",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.525658,
+          35.388133
+        ]
+      },
+      "properties": {
+        "name": "南戸塚小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "e3592914-8858-478b-b83e-5a9e39dc41c9",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.577798,
+          35.424882
+        ]
+      },
+      "properties": {
+        "name": "六つ川西小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "e6b9ad1d-6ad8-4f19-93fc-27353446093e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.627952,
+          35.537394
+        ]
+      },
+      "properties": {
+        "name": "綱島小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "edbb1e65-252c-4a57-b147-0423462c3dd0",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.573876,
+          35.415491
+        ]
+      },
+      "properties": {
+        "name": "芹が谷小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "f2ca3387-f149-4cb5-8491-c4b2b73384e2",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.617789,
+          35.324698
+        ]
+      },
+      "properties": {
+        "name": "六浦中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "f3166dcf-8ba6-4f7d-bd8e-cbbf8660150b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.560683,
+          35.434183
+        ]
+      },
+      "properties": {
+        "name": "東品濃小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "fe60d3c7-77ab-477b-8f1c-a6b400971485",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.593233,
+          35.551197
+        ]
+      },
+      "properties": {
+        "name": "中川中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "503f1d5c-ef2d-4dcb-8143-990c81404ff1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.556515,
+          35.544725
+        ]
+      },
+      "properties": {
+        "name": "荏田南小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "54e31e66-5082-4170-910b-66abbac3cc44",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.584347,
+          35.353081
+        ]
+      },
+      "properties": {
+        "name": "庄戸小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "5c710be4-4670-4aa2-9156-f4ea231f8054",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.520075,
+          35.371608
+        ]
+      },
+      "properties": {
+        "name": "千秀小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "74c70ce7-46e6-4895-a2ce-262f7c8f1bd9",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.536545,
+          35.535809
+        ]
+      },
+      "properties": {
+        "name": "緑が丘中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "753d924b-b5a6-42e3-94b6-d5781032690d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.521434,
+          35.557083
+        ]
+      },
+      "properties": {
+        "name": "みたけ台中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "80470853-cd32-48eb-acfd-cba66e60b8e0",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.481174,
+          35.471056
+        ]
+      },
+      "properties": {
+        "name": "瀬谷中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "84921704-ffce-4993-b5fb-679725684e99",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.481717,
+          35.429766
+        ]
+      },
+      "properties": {
+        "name": "上飯田中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "91bd4ddb-1d22-4f7f-a263-297e0b8b1360",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.531989,
+          35.496564
+        ]
+      },
+      "properties": {
+        "name": "大池小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "94e09a2d-ee0a-4db6-82ea-361c356be976",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.49113,
+          35.530167
+        ]
+      },
+      "properties": {
+        "name": "長津田小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "aa40faa3-f9ee-42fb-9365-21d04a2932f8",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.498216,
+          35.41599
+        ]
+      },
+      "properties": {
+        "name": "中和田中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "ab0786e8-9d4e-452e-a596-ea011446fbf7",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.738886,
+          35.535255
+        ]
+      },
+      "properties": {
+        "name": "大師中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d3282fe2-e6c7-4f6b-981d-65dcfb86be78",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54985,
+          35.462318
+        ]
+      },
+      "properties": {
+        "name": "左近山第一小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d56bbcdf-b684-4860-abd2-d2d68e698cca",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5371,
+          35.495536
+        ]
+      },
+      "properties": {
+        "name": "旭北中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d5d6ead2-f51b-4960-b31b-aeb5692d9200",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.557126,
+          35.531004
+        ]
+      },
+      "properties": {
+        "name": "川和中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d797bb12-f417-49e9-b764-692e1d903f57",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.481966,
+          35.46054
+        ]
+      },
+      "properties": {
+        "name": "瀬谷第二小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "f0341ee2-96de-4dff-9af1-e1da006795a4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.526379,
+          35.539114
+        ]
+      },
+      "properties": {
+        "name": "藤が丘小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "fa324a3a-0cd0-4409-a9d3-78cad02afb9c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.50713,
+          35.512089
+        ]
+      },
+      "properties": {
+        "name": "霧が丘小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "19764cfc-7167-4f95-833a-ffd7130dfbf1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.745469,
+          35.537505
+        ]
+      },
+      "properties": {
+        "name": "殿町小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "28b792b4-4c2f-4682-ad08-f953e1382838",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.52946,
+          35.575887
+        ]
+      },
+      "properties": {
+        "name": "嶮山小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "3b1bd815-463b-4a3b-aacd-95760da5586f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.595704,
+          35.564417
+        ]
+      },
+      "properties": {
+        "name": "東山田小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "448be642-2e68-4523-b7a8-5c2c9e9c8ed7",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.500213,
+          35.539306
+        ]
+      },
+      "properties": {
+        "name": "田奈小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "60a9bfd1-20b3-43cd-85be-5edf366cfe4b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.539433,
+          35.49548
+        ]
+      },
+      "properties": {
+        "name": "上白根小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "6707b7a0-6f0e-4960-99b0-342508a2ebb6",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.484383,
+          35.398242
+        ]
+      },
+      "properties": {
+        "name": "中和田南小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "69fb046c-1203-44d4-80e5-743c35b499c3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.581898,
+          35.505081
+        ]
+      },
+      "properties": {
+        "name": "東本郷小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "784825e3-87d2-4040-8642-7d09d5004688",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.509879,
+          35.541918
+        ]
+      },
+      "properties": {
+        "name": "榎が丘小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "79a5b8dd-624e-4906-9906-d2e60b5a02e3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.535823,
+          35.457735
+        ]
+      },
+      "properties": {
+        "name": "万騎が原中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "8483ba27-96d2-470e-bb43-e0722829d01f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.560561,
+          35.50534
+        ]
+      },
+      "properties": {
+        "name": "緑小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "8502d421-2e77-4747-ae5c-836719c96ab2",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.535568943,
+          35.5088405666
+        ]
+      },
+      "properties": {
+        "name": "森の台小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "8ec4becf-c9cc-4dd4-ba44-fd93337ba87f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.717361,
+          35.516812
+        ]
+      },
+      "properties": {
+        "name": "大島小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "96082dea-e93a-4dcc-bf28-3049a5477b38",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.542599,
+          35.481593
+        ]
+      },
+      "properties": {
+        "name": "鶴ヶ峯中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "983722ff-d197-40ab-b587-43616fd9dc36",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.48155,
+          35.434349
+        ]
+      },
+      "properties": {
+        "name": "飯田北小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "9cd710c7-6e10-4336-9ece-968371940d3e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.499573,
+          35.552443
+        ]
+      },
+      "properties": {
+        "name": "恩田小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "a1c0100f-eda7-4bc9-8f02-ca8ddcab7687",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70064,
+          35.518229
+        ]
+      },
+      "properties": {
+        "name": "新町小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "aa3609bf-3c3a-42b2-be36-9016907e4a36",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702779,
+          35.507397
+        ]
+      },
+      "properties": {
+        "name": "浅田小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "aff03301-df9c-4d39-944c-e0bc3fabab03",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.511548,
+          35.464401
+        ]
+      },
+      "properties": {
+        "name": "東希望が丘小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "b9064d96-ffca-4034-88cc-314274b88b81",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.549351,
+          35.37133
+        ]
+      },
+      "properties": {
+        "name": "本郷台小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "baa1f00a-a1e8-49be-ad2f-06f85754cab4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.536461,
+          35.484121
+        ]
+      },
+      "properties": {
+        "name": "今宿小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "bc445ce4-22c7-4b3d-9690-44ac232d360b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.52113,
+          35.415351
+        ]
+      },
+      "properties": {
+        "name": "領家中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "be38649b-b2cc-4955-a4fe-e21b7bc0a4d7",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.582142,
+          35.540711
+        ]
+      },
+      "properties": {
+        "name": "茅ヶ崎中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "beb92e3d-4790-4e11-8db2-8bf82c31c16a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.547516,
+          35.464429
+        ]
+      },
+      "properties": {
+        "name": "本宿中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "c4f07c42-383a-4ecd-9be5-404b3ee37855",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.506604,
+          35.434349
+        ]
+      },
+      "properties": {
+        "name": "新橋小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "c6938de2-7f8e-45d6-b42b-b2a22f5723e1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.562514,
+          35.547002
+        ]
+      },
+      "properties": {
+        "name": "荏田東第一小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "cea0e7de-2abd-40b1-b676-ac9f4938c49e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.689419,
+          35.522729
+        ]
+      },
+      "properties": {
+        "name": "川崎中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d00fc9cd-726e-4d0c-91f4-2014efe297da",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53513,
+          35.373025
+        ]
+      },
+      "properties": {
+        "name": "飯島小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "dba42ea8-b5ee-492d-8498-a6458257c7a6",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.532938,
+          35.568205
+        ]
+      },
+      "properties": {
+        "name": "黒須田小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "dba80451-f98b-4c3b-8262-19d012bd353d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.477049,
+          35.489312
+        ]
+      },
+      "properties": {
+        "name": "上瀬谷小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "ddbba1bb-2c51-4c05-9325-9571197311b3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.509628,
+          35.557083
+        ]
+      },
+      "properties": {
+        "name": "鴨志田第一小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "e77b2f69-8f8b-4230-87a8-1eed47a68125",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.727027,
+          35.523173
+        ]
+      },
+      "properties": {
+        "name": "桜本中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "e7858ac1-1b9f-4a99-a0e3-b82062df6c33",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705862,
+          35.528783
+        ]
+      },
+      "properties": {
+        "name": "宮前小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "e87d48b9-3da9-48da-95ca-c923025a764d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.560484,
+          35.582386
+        ]
+      },
+      "properties": {
+        "name": "美しが丘東小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "e9dd4e90-7f10-47ae-948c-2ae0c380eb36",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.603184,
+          35.559719
+        ]
+      },
+      "properties": {
+        "name": "山田小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "ede4e7bc-b65c-4424-8134-8d47a7b7c388",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.52124,
+          35.485149
+        ]
+      },
+      "properties": {
+        "name": "都岡小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "feb34a19-6892-47e4-a3e7-576508ec0d13",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.657976,
+          35.569417
+        ]
+      },
+      "properties": {
+        "name": "東住吉小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "3cc21395-d8bb-415a-9579-7b372490a938",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.519598,
+          35.61577
+        ]
+      },
+      "properties": {
+        "name": "西生田中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "44b96904-a0e0-4447-b9f0-b331ec6a9a82",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692057,
+          35.543226
+        ]
+      },
+      "properties": {
+        "name": "御幸小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "456170b3-35bf-49d2-a956-69005a81c2b0",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.250527,
+          36.216805
+        ]
+      },
+      "properties": {
+        "name": "大門保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "de494dc7-b9cf-4321-96f5-63767c505ce1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.268412,
+          36.259578
+        ]
+      },
+      "properties": {
+        "name": "長門小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "2f40175a-c8c0-4c67-b4ad-d3ece1bce261",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.249312495,
+          35.8881834223
+        ]
+      },
+      "properties": {
+        "name": "落合保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "480f3c82-6ed9-4c5c-9a32-6a060d63d374",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.217817,
+          35.96317
+        ]
+      },
+      "properties": {
+        "name": "原小学校体育館",
+        "primary": "school",
+        "tags": [
+          "school",
+          "civic"
+        ],
+        "dataId": "80fa5788-6a6f-4a55-9f15-263e2775f62d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.277398,
+          35.8855429991
+        ]
+      },
+      "properties": {
+        "name": "境保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "a05620b5-8e60-4a8c-96fa-c918ca596885",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.078483,
+          36.081372
+        ]
+      },
+      "properties": {
+        "name": "下諏訪町第５保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "b47d72ca-dc38-4db9-ba9a-e2adcf31f687",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.23239834,
+          35.9135744731
+        ]
+      },
+      "properties": {
+        "name": "富士見保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "8fd67586-3702-44e5-b769-5e5612ef39ca",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.962619,
+          35.885923
+        ]
+      },
+      "properties": {
+        "name": "西部保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "56ab963c-79dd-45d3-8e33-ba72fded251b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.986391,
+          35.981996
+        ]
+      },
+      "properties": {
+        "name": "中央保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "a98d589e-8014-476b-b2d9-b455331f52af",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.969591,
+          35.859621
+        ]
+      },
+      "properties": {
+        "name": "南部保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "ba155bf4-6d0e-447b-ae3a-80438667a97c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.982033,
+          35.9058659991
+        ]
+      },
+      "properties": {
+        "name": "箕輪進修高校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "c271c02d-3097-45ec-a668-2d2eadd45dd2",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.930298,
+          35.619733
+        ]
+      },
+      "properties": {
+        "name": "旧かつら保育園々庭",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d32fee39-9d1d-474e-b3e7-4d4125ff3d6a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.933408,
+          35.629454
+        ]
+      },
+      "properties": {
+        "name": "中川中学校グラウンド",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "e9189dff-2f33-44dc-9865-d200370286d1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.929533768,
+          35.6785071733
+        ]
+      },
+      "properties": {
+        "name": "飯島成人大学センター",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "f070d352-e307-4aa2-90e1-9239402e24ca",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.937601,
+          35.860163
+        ]
+      },
+      "properties": {
+        "name": "南部小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "f1d0bcd3-2338-409c-92ac-2a3fc7723695",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.9812,
+          35.910754
+        ]
+      },
+      "properties": {
+        "name": "箕輪町中部小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "86dcc7aa-2000-4a14-b38b-2ec2b93897d0",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.982539,
+          35.889405
+        ]
+      },
+      "properties": {
+        "name": "北部保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "b8520785-dcb4-4d80-8968-1392127f2874",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.961506,
+          35.938084
+        ]
+      },
+      "properties": {
+        "name": "長田保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d23be0f4-ed23-4e89-adae-55f358241e14",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.812958,
+          35.3239059991
+        ]
+      },
+      "properties": {
+        "name": "中央保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "356b4e4f-dee5-4557-8208-9cd22e2da656",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.970463,
+          35.584767
+        ]
+      },
+      "properties": {
+        "name": "東小学校体育館",
+        "primary": "school",
+        "tags": [
+          "school",
+          "civic"
+        ],
+        "dataId": "76c7b217-882f-40ef-aed4-178ea87048f5",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.871415,
+          35.546464
+        ]
+      },
+      "properties": {
+        "name": "下市田保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "a2d37e26-a13d-4c09-a27a-581d645d25ba",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.791292,
+          35.39623
+        ]
+      },
+      "properties": {
+        "name": "下條中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "eae4d021-ed1f-466b-b595-57a05ea01968",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.847676,
+          35.345127
+        ]
+      },
+      "properties": {
+        "name": "泰阜南小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "6a027c2a-54d4-484e-b13e-5ec56c7433dd",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.744327,
+          35.260301
+        ]
+      },
+      "properties": {
+        "name": "新野保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "9577c46e-b422-4bc9-8544-1c765c4fe134",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.87622,
+          35.552435
+        ]
+      },
+      "properties": {
+        "name": "高森中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "9c05ae15-b342-4685-b4fe-92cda1189ba1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.888608,
+          35.558018
+        ]
+      },
+      "properties": {
+        "name": "吉田河原保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "a5eb8928-95a9-4734-a726-80141f795acb",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.757126,
+          35.448084
+        ]
+      },
+      "properties": {
+        "name": "阿智高等学校第２体育館",
+        "primary": "school",
+        "tags": [
+          "school",
+          "civic"
+        ],
+        "dataId": "aa2b77b7-108b-4b13-a589-ee98494aa366",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.746322,
+          35.425976
+        ]
+      },
+      "properties": {
+        "name": "阿智第二小学校体育館",
+        "primary": "school",
+        "tags": [
+          "school",
+          "civic"
+        ],
+        "dataId": "b95f8da1-1043-4c20-8f61-9f654dfeeb93",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.788236,
+          35.397008
+        ]
+      },
+      "properties": {
+        "name": "下條小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "ca28d9ba-bf48-40d7-9900-7f2e6c4e4101",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.822885,
+          35.327632
+        ]
+      },
+      "properties": {
+        "name": "阿南第一中学校体育館",
+        "primary": "school",
+        "tags": [
+          "school",
+          "civic"
+        ],
+        "dataId": "f43adf56-9892-44c8-b938-6726200a5ccb",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.633357,
+          35.558373
+        ]
+      },
+      "properties": {
+        "name": "旧蘭小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "95f94e81-3d8d-4e22-9b5c-d1dca67ca398",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.888444,
+          35.482139
+        ]
+      },
+      "properties": {
+        "name": "喬木南保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d6f60675-b1d6-43f2-b4d0-154b22e29774",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.883943,
+          35.520829
+        ]
+      },
+      "properties": {
+        "name": "喬木北保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "1dde63f4-8bd5-4f14-8c01-07ee9b94c142",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.605358,
+          35.597701
+        ]
+      },
+      "properties": {
+        "name": "南木曽中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "961bfc42-e0cd-436d-9f5f-1fd5e9e1249e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.706131,
+          35.771236
+        ]
+      },
+      "properties": {
+        "name": "上松中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "b98fe908-a6c9-4c69-a2d2-004deb60dbe0",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.896969,
+          35.545075
+        ]
+      },
+      "properties": {
+        "name": "村立豊丘中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "cd4d1e93-b1b7-4c3c-9f65-db73c5ea2667",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.626217945,
+          35.8421421874
+        ]
+      },
+      "properties": {
+        "name": "三岳小中学校校庭",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "5d59089b-90e4-485c-a0bd-442d6bbe400e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.758905,
+          35.881206
+        ]
+      },
+      "properties": {
+        "name": "日義中学校体育館",
+        "primary": "school",
+        "tags": [
+          "school",
+          "civic"
+        ],
+        "dataId": "d4f35a2c-b993-42b1-aeeb-c8446e6b11f3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.602521,
+          35.933541
+        ]
+      },
+      "properties": {
+        "name": "開田中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "ec21e01e-9407-49dc-8125-82dcbfe6a839",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.697741,
+          35.84716
+        ]
+      },
+      "properties": {
+        "name": "木曽幼稚園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "7c9a7c8b-2795-4a41-8e93-e2c44269f150",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.672056,
+          35.688086
+        ]
+      },
+      "properties": {
+        "name": "大桑中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "b86bc2f4-cf0d-4303-b3ce-9d92551623ba",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.012511932,
+          36.4563805986
+        ]
+      },
+      "properties": {
+        "name": "旧日向小学校校庭",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "dbe3bc15-6a44-4c4f-8d31-535ad31e82fc",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.184105,
+          36.466192
+        ]
+      },
+      "properties": {
+        "name": "坂城小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "b79758e4-0143-49bf-8e0e-17643ba08322",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.90027416,
+          36.8444843657
+        ]
+      },
+      "properties": {
+        "name": "旧北小谷小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "c6ca925d-ea52-4b3a-80dd-d58632705406",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.196442,
+          36.436035
+        ]
+      },
+      "properties": {
+        "name": "南条保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "ffd03a7a-8649-4488-99b3-64934ce192f2",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.436406,
+          36.800688
+        ]
+      },
+      "properties": {
+        "name": "北小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "8c242232-5e64-426d-bf69-605c4a37a511",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.874749,
+          36.419549
+        ]
+      },
+      "properties": {
+        "name": "高瀬中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "94b60338-ad43-4f74-8302-a2a68c98d5f2",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.194467,
+          36.434862
+        ]
+      },
+      "properties": {
+        "name": "南条小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "b7a2d6e3-aa92-43b3-98b4-214aad4d4f48",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.920456011,
+          36.8176114114
+        ]
+      },
+      "properties": {
+        "name": "旧中土小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "fb5fe33c-cad8-43da-9bcc-8e753abe1f2c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.370443,
+          36.6862
+        ]
+      },
+      "properties": {
+        "name": "旧山田保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "bd75e54b-4663-4ca8-97a4-5307f88ce3e9",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.437010727,
+          36.949367373
+        ]
+      },
+      "properties": {
+        "name": "こばと保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d368a73b-b1ad-4f52-b94f-0afa8b6b130d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.407379,
+          36.863319
+        ]
+      },
+      "properties": {
+        "name": "下高井農林高等学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "dea97b39-711c-43c2-8eb6-24ddb4976759",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.415104,
+          36.744056
+        ]
+      },
+      "properties": {
+        "name": "山ノ内中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "e75fb41b-9b8d-41a2-9eb5-d032d3d71e36",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.409299,
+          36.731835
+        ]
+      },
+      "properties": {
+        "name": "南小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "fbc87540-95dd-4264-9474-b9562cdc780d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.437152,
+          36.921035
+        ]
+      },
+      "properties": {
+        "name": "野沢温泉中学校体育館",
+        "primary": "school",
+        "tags": [
+          "school",
+          "civic"
+        ],
+        "dataId": "500d51ff-98e8-4fd4-860b-0e796fb48a42",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.203181,
+          36.775351
+        ]
+      },
+      "properties": {
+        "name": "富士里小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "7d1e758b-6d78-44b3-82bc-43c167934c25",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.246092,
+          36.849011
+        ]
+      },
+      "properties": {
+        "name": "古海小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "f8d610fe-5b73-46f3-a30f-7106e143b5dc",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.583017,
+          35.651881
+        ]
+      },
+      "properties": {
+        "name": "東小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "29412378-ed88-45f9-8d86-844686085eb8",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.552462,
+          35.712539
+        ]
+      },
+      "properties": {
+        "name": "千代田小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "3996f802-5681-4f3e-a4cd-38ea80e48779",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.59596,
+          35.655908
+        ]
+      },
+      "properties": {
+        "name": "甲府東高等学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "6a85eede-0771-4518-a4f7-398cd65c9a26",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.974374,
+          36.61664
+        ]
+      },
+      "properties": {
+        "name": "小川中学校体育館",
+        "primary": "school",
+        "tags": [
+          "school",
+          "civic"
+        ],
+        "dataId": "9bd868c0-9fae-46c0-b776-027186bf7303",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.612946,
+          35.530705
+        ]
+      },
+      "properties": {
+        "name": "旧上九一色小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "b325c284-4f3b-4262-a782-05c469843c30",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.212542,
+          36.735411
+        ]
+      },
+      "properties": {
+        "name": "牟礼西小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "c14e8dc4-44d3-4ce1-9a5f-4c450f3a75b8",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.54102,
+          35.680848
+        ]
+      },
+      "properties": {
+        "name": "千塚小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "cee85fac-e541-4a24-bd00-b8b8a167cb7c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.974258916,
+          36.6168800339
+        ]
+      },
+      "properties": {
+        "name": "小川中学校グラウンド",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d3ece8d1-be5f-4ecf-a647-68d203ac5a2a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.556648,
+          35.628868
+        ]
+      },
+      "properties": {
+        "name": "上条中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "dfe05210-248a-4d26-aec7-c7495be41064",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.529077,
+          35.691902
+        ]
+      },
+      "properties": {
+        "name": "北西中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "28cd80b0-47a9-46c5-be76-cf85650afc14",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.567073,
+          35.679738
+        ]
+      },
+      "properties": {
+        "name": "山梨大学附属小・中学校校庭",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "73e904d3-6ad2-4b8d-9bdb-a21c528860c6",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.546353,
+          35.666878
+        ]
+      },
+      "properties": {
+        "name": "甲府城西高等学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "7c1b03b3-a3b6-4ada-99a7-950fff99af73",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.578047,
+          35.626357
+        ]
+      },
+      "properties": {
+        "name": "山城小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "e7084e45-ceef-4e7f-91f5-a7d0281fc6f7",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.556296,
+          35.679488
+        ]
+      },
+      "properties": {
+        "name": "北中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "e96c4b8d-dbaa-460e-bffd-caff1bd79a13",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.569434,
+          35.672211
+        ]
+      },
+      "properties": {
+        "name": "新紺屋小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "f32a7224-2710-4f06-aaf7-09cf98156885",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.560395618,
+          35.6631608619
+        ]
+      },
+      "properties": {
+        "name": "旧穴切小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "ff3a75c7-e28a-43ea-8a3c-6a313dbe5e6e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.79203,
+          35.48674
+        ]
+      },
+      "properties": {
+        "name": "第四保育園",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "8cfb5951-c1d7-4cb9-9d1c-ca70e406dcee",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.878518,
+          35.596757
+        ]
+      },
+      "properties": {
+        "name": "初狩小学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "d490939a-be14-4cbe-8940-4df59cde6e59",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.683398,
+          35.663466
+        ]
+      },
+      "properties": {
+        "name": "日川高校体育館",
+        "primary": "school",
+        "tags": [
+          "school",
+          "civic"
+        ],
+        "dataId": "ee5bdbe2-4e6b-4a8c-8ba6-8356940da7b4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.89668471,
+          35.5377141094
+        ]
+      },
+      "properties": {
+        "name": "都留文科大学グラウンド",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "6fe034dc-dd0b-43b4-9777-5896e9676999",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.935567,
+          35.61059
+        ]
+      },
+      "properties": {
+        "name": "大月東中学校",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "783f31ff-9d8c-4e7d-a0ca-fc6487b85322",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.925987,
+          35.551458
+        ]
+      },
+      "properties": {
+        "name": "谷村第二小学校屋体",
+        "primary": "school",
+        "tags": [
+          "school"
+        ],
+        "dataId": "96af382d-ff79-4c93-b66f-b9dd8eb9591e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    }
+  ]
+}

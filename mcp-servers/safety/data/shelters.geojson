@@ -1,0 +1,1163 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.579000044,
+          41.2208037287
+        ]
+      },
+      "properties": {
+        "name": "奥平部避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "2c856aac-e18a-4980-b6af-7cffbd2ad4a5",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.299503253,
+          41.1138109535
+        ]
+      },
+      "properties": {
+        "name": "折戸避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "769110d8-2b4f-4541-b841-337011ab81dc",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.275085673,
+          35.1842507885
+        ]
+      },
+      "properties": {
+        "name": "口坂本避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "af0aea62-985e-4446-9808-d9f1ea72c679",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.364828379,
+          32.7357410881
+        ]
+      },
+      "properties": {
+        "name": "瀬野避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "f14ae4b8-8e25-45c4-b6f8-eae2dcac44ed",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.3001596,
+          34.1133116437
+        ]
+      },
+      "properties": {
+        "name": "向江避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "1a5e9abc-643e-479d-8254-62db1458f30b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.95986,
+          34.97188
+        ]
+      },
+      "properties": {
+        "name": "西幸公民会館避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter",
+          "civic"
+        ],
+        "dataId": "b173d6a7-4316-40d7-9e04-7db484b66235",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.694786176,
+          31.6885870561
+        ]
+      },
+      "properties": {
+        "name": "瀬々野浦地区緊急避難施設",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "95c98412-b45a-4c9a-a173-d9f312241bc7",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.737672643,
+          31.7055778221
+        ]
+      },
+      "properties": {
+        "name": "長浜地区緊急避難施設",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "cc5b6b1a-1a59-49a3-b2dd-439bc72cb46b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.346260101,
+          32.7879773338
+        ]
+      },
+      "properties": {
+        "name": "下折橋町集合避難施設",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "10dbd15a-fd19-4494-8c75-9573084cbb35",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.726271952,
+          31.6606815001
+        ]
+      },
+      "properties": {
+        "name": "瀬尾地区緊急避難施設",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "c678529b-014b-4286-adc6-4095235f2040",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.682912127,
+          31.6613746338
+        ]
+      },
+      "properties": {
+        "name": "片野浦地区緊急避難施設",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "ba6e4641-9f9b-4681-bfcb-3dfa7458b024",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.849660525,
+          32.9791585926
+        ]
+      },
+      "properties": {
+        "name": "大坂本地区避難施設",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "b1a225e2-9f0d-4a96-8651-d2034019d5f0",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.364669473,
+          32.7609489119
+        ]
+      },
+      "properties": {
+        "name": "新湊町集合避難施設",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "5ce77db3-f4b7-4392-93b9-deaa0dba13fa",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.69279444444,
+          34.297219444444
+        ]
+      },
+      "properties": {
+        "name": "社会資本整備総合交付金事業　南伊勢町2次避難所災害トイレ・耐震性貯水槽地質調査業務委託",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "32cdee0f-7efa-47b4-a04a-1e016155f2c5",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.69276111111,
+          34.297191666667
+        ]
+      },
+      "properties": {
+        "name": "社会資本整備総合交付金事業　南伊勢町2次避難所災害トイレ・耐震性貯水槽地質調査業務委託",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "8ce8adf5-6fec-4d75-856f-b5af857b6e08",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.6927,
+          34.296511111111
+        ]
+      },
+      "properties": {
+        "name": "\"社会資本整備総合交付金事業  南伊勢町2次避難所災害トイレ・耐震性貯水槽地質調査業務委託\"",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "678e5f4c-2c7f-41ef-b99c-0c2c8759831e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.9877182087396,
+          35.98267301734681
+        ]
+      },
+      "properties": {
+        "name": "福祉避難所老人福祉センター",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "8b023754-db7b-4ef9-a291-14cb72959203",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.285815,
+          34.3453489991
+        ]
+      },
+      "properties": {
+        "name": "領内地域避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "a8b03286-4fb7-4c04-be05-0fe326f9b8a3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.402713635,
+          34.2134471374
+        ]
+      },
+      "properties": {
+        "name": "⑤横避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "2fa64e28-db1b-46e5-94a7-6bc2caa8aa72",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.403139985,
+          34.2156152586
+        ]
+      },
+      "properties": {
+        "name": "浅間山避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "b9e116a6-b28b-4600-8f1e-40aaef8f3535",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.395828959,
+          34.2271877779
+        ]
+      },
+      "properties": {
+        "name": "のぞみ町避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "1789f1bb-5bae-40c2-92e4-270327eaa4ad",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.40160813,
+          34.2175904706
+        ]
+      },
+      "properties": {
+        "name": "釜土避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "9e0d815e-d794-474a-b19e-ac517ad71ce1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.401481485,
+          34.2191934333
+        ]
+      },
+      "properties": {
+        "name": "角町避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "738a3de8-683e-4c88-87f6-22fe7954eace",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.403438854,
+          34.2145841702
+        ]
+      },
+      "properties": {
+        "name": "福羅避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "1373bce9-76a1-4236-857c-ba2e9ccdbc71",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.785637176,
+          35.1725091429
+        ]
+      },
+      "properties": {
+        "name": "漆島防災避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "001f71d3-af2c-43ed-abb7-f9b1b4070b25",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.579526908,
+          44.9313955945
+        ]
+      },
+      "properties": {
+        "name": "新港地区避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "e9c555e8-8474-4b8e-b32d-73a86089ed81",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.055422426,
+          38.2976317608
+        ]
+      },
+      "properties": {
+        "name": "汐見台地区避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "f43a1c08-a3db-4d75-9973-b88e143af483",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.395178734,
+          34.2255810677
+        ]
+      },
+      "properties": {
+        "name": "山の神津波避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "6d3aaf32-e788-436a-b8e4-411d159434f1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.755207599,
+          31.7201966693
+        ]
+      },
+      "properties": {
+        "name": "芦浜地区緊急避難施設",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "fcb57dab-15de-407c-97b8-0e6ec9e80f2f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.694146658,
+          31.6905303037
+        ]
+      },
+      "properties": {
+        "name": "内川内地区緊急避難施設",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "f1eed505-7ea8-4847-85fc-3c0e94ed1fad",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.316951,
+          35.437493
+        ]
+      },
+      "properties": {
+        "name": "米子自動車学校避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "4f2a4a54-3ee6-4fd2-91da-6222ac49e8df",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.397357592,
+          34.214499237
+        ]
+      },
+      "properties": {
+        "name": "向井ヶ浜避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "84d93f2f-2906-48e5-af9f-936f540f2339",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.484320113,
+          30.4341340706
+        ]
+      },
+      "properties": {
+        "name": "一湊白川地区避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "a8c502e9-16eb-44dd-bbc9-48f8488e4bee",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.388190665,
+          34.2287332345
+        ]
+      },
+      "properties": {
+        "name": "高岡会館裏避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter",
+          "civic"
+        ],
+        "dataId": "163bfa1b-7424-4e75-80ac-4fa7b25db067",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.401834519,
+          34.2175393809
+        ]
+      },
+      "properties": {
+        "name": "清甫園避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "38cea23b-8b66-49ad-8e6f-e4889366cf0c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.394604911,
+          34.2309202694
+        ]
+      },
+      "properties": {
+        "name": "旧２６０号避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "455bb125-0497-4075-a3ca-d8e662aea7bf",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.283895913,
+          34.0851805709
+        ]
+      },
+      "properties": {
+        "name": "老人優先避難所みどり",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "0bffda01-2e35-411c-a8a1-609b538778b2",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.46636557,
+          34.2586948
+        ]
+      },
+      "properties": {
+        "name": "奥の川避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "3da1f8b8-c8e0-4f10-83cb-21e9ae4bcb59",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.505557603,
+          34.1213816732
+        ]
+      },
+      "properties": {
+        "name": "三宅村活動火山対策避難施設",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "da5b8304-09ab-4c45-a49d-a624a402273e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.875376701,
+          34.3379622807
+        ]
+      },
+      "properties": {
+        "name": "国府漁村センター緊急避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "2a0ad1f1-21cd-4473-a37e-895daeb26a05",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.303572638,
+          35.4400407035
+        ]
+      },
+      "properties": {
+        "name": "下水道内浜処理場避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "5eb6ec3e-9da2-41ad-91d5-29b59454c94c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.278872,
+          34.074586
+        ]
+      },
+      "properties": {
+        "name": "障害者優先避難所すみれ",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "bda6ab5c-42f4-4b68-b618-4fe7eab36763",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.067102,
+          39.3282319991
+        ]
+      },
+      "properties": {
+        "name": "ふれあい館「鮎川」（福祉避難所）",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "e47037f2-b651-4142-8220-98619129ed8a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.449026,
+          33.304161
+        ]
+      },
+      "properties": {
+        "name": "花のみね（福祉避難所）",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "7c56f17f-fc80-43fb-9675-00063377ffb8",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.997043,
+          34.918953
+        ]
+      },
+      "properties": {
+        "name": "論地集会場緊急災害避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "b495b4b1-d64b-4ec7-88b7-40f5c0a2473c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.610063,
+          32.061814
+        ]
+      },
+      "properties": {
+        "name": "大口元気こころ館（福祉避難所）",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "dd4e9e1c-0324-4c90-ac70-661dd07b248e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.12817592,
+          32.8283944358
+        ]
+      },
+      "properties": {
+        "name": "本村地区防災拠点施設避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "d086abb2-41e7-45e2-9281-5f8c6ecd088c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.52295214,
+          33.4266967401
+        ]
+      },
+      "properties": {
+        "name": "基山町保健センター（福祉避難所）",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "cd7d2527-36af-4ec3-b8af-94c32487c825",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.520896,
+          33.422211
+        ]
+      },
+      "properties": {
+        "name": "老人憩の家（福祉避難所）",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "b5dfc23e-8c52-4657-9530-76960434d8f3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.450995,
+          33.3000269991
+        ]
+      },
+      "properties": {
+        "name": "花のみね弐番館（福祉避難所）",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "a096636a-893e-48fc-a5b8-86eebead5faa",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.148530248,
+          34.9402776081
+        ]
+      },
+      "properties": {
+        "name": "上府町荒相地区緊急避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "c007e412-b6dd-416f-91e0-8bde67f8052d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.450544,
+          33.363689
+        ]
+      },
+      "properties": {
+        "name": "なかばる紀水苑（福祉避難所）",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "5b289027-0d9a-47bc-8986-833e92bab85b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.96714,
+          33.9292249991
+        ]
+      },
+      "properties": {
+        "name": "北山村社会福祉協議会（福祉避難所）",
+        "primary": "shelter",
+        "tags": [
+          "shelter",
+          "civic"
+        ],
+        "dataId": "80b36cd9-ef7b-44c0-83e6-1f9823cd4ed0",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.120233533,
+          32.8239455771
+        ]
+      },
+      "properties": {
+        "name": "慶師野地区防災拠点施設避難所",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "e7f64476-2db1-429e-b568-da5faf2fe7d9",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.146419,
+          35.871053
+        ]
+      },
+      "properties": {
+        "name": "利根町保健福祉センター（旧福祉センター）【福祉避難所】",
+        "primary": "shelter",
+        "tags": [
+          "shelter"
+        ],
+        "dataId": "4c8c288a-aa99-43cd-9600-5a400129e19e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.503239768,
+          36.3124967282
+        ]
+      },
+      "properties": {
+        "name": "荒町公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "df0996f4-ef3e-4992-adc7-23fff2a830f9",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.29456442,
+          36.2726984191
+        ]
+      },
+      "properties": {
+        "name": "立石分館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "df0c11d2-8dbb-417e-9302-82e3e4004174",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.530578751,
+          36.296953156
+        ]
+      },
+      "properties": {
+        "name": "豊昇第一公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e6cd4340-b4d5-4020-8e46-2bdaa0a3a51f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.315047,
+          36.2710499991
+        ]
+      },
+      "properties": {
+        "name": "老人福祉センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e90e96df-b1cd-4333-a9ee-1383d95a3c78",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.617917174,
+          36.2995465852
+        ]
+      },
+      "properties": {
+        "name": "馬取公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "edaa6edf-8993-4547-8849-02e2522aaef2",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.492566696,
+          36.3343917867
+        ]
+      },
+      "properties": {
+        "name": "塩野公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "fb5f0a5d-c2d7-4c3f-9ef3-8675c517a936",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.970534158,
+          36.0462787786
+        ]
+      },
+      "properties": {
+        "name": "介護予防センター「たのめの里」",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "2b69e40a-3f0e-4a25-8ad7-79149a0c4480",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.075824069,
+          36.0823234179
+        ]
+      },
+      "properties": {
+        "name": "東山田公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "3f325ce5-c3a7-443b-a76f-908a910139ed",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.234057249,
+          35.9249847849
+        ]
+      },
+      "properties": {
+        "name": "富ケ丘区公民館予定地",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "5d8b97a7-560d-4633-bf1b-7d349b0a0caf",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.240808,
+          35.917809
+        ]
+      },
+      "properties": {
+        "name": "桜ヶ丘区公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "62b218f8-01fb-4cad-812f-63d21b7a0893",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.249625812,
+          35.9222803072
+        ]
+      },
+      "properties": {
+        "name": "新田原組会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "63ff9bf9-6f4d-4031-af72-d5dcbc916869",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.089161082,
+          36.0784934026
+        ]
+      },
+      "properties": {
+        "name": "東明館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "66d5d718-9692-4aca-982d-ec45aefbadff",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.217491,
+          35.962187
+        ]
+      },
+      "properties": {
+        "name": "原村中央公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "6884c71b-832a-46d5-837c-3fbb292d7cb8",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.079646,
+          36.070104
+        ]
+      },
+      "properties": {
+        "name": "下諏訪総合文化センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "9623fced-ae4b-4982-833d-999c9499a755",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.991790377,
+          35.981149171
+        ]
+      },
+      "properties": {
+        "name": "下辰野南部公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "9e914403-c5c3-4425-9459-3219b262d934",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.231819,
+          35.9059449991
+        ]
+      },
+      "properties": {
+        "name": "塚平区公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "b56e6674-27fb-430c-ae61-e32b271170e2",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.225777,
+          35.885966
+        ]
+      },
+      "properties": {
+        "name": "花場区公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "cf4bb20b-c42d-4191-8e21-4ec5f8dbf447",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.985872946,
+          35.9835783225
+        ]
+      },
+      "properties": {
+        "name": "宮木中央集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d0ca28da-81fa-48b8-9556-f690558e955d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.964184406,
+          35.9966235778
+        ]
+      },
+      "properties": {
+        "name": "小横川公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "da09e4d5-a2db-44fa-8e0b-b3519d82fd64",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.963554102,
+          36.0490869089
+        ]
+      },
+      "properties": {
+        "name": "春宮公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e4c4467a-07d2-4af9-8e17-aeee911b6847",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.300779,
+          35.8874699991
+        ]
+      },
+      "properties": {
+        "name": "葛窪転作研修センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "046bb132-d511-4da7-be33-f8cd7076b340",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.245354,
+          35.8868219991
+        ]
+      },
+      "properties": {
+        "name": "先能集落センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "28324132-eefb-4aae-94d2-0f96f5337f95",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.955837,
+          36.0433939991
+        ]
+      },
+      "properties": {
+        "name": "押野コミュニティーセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "56698776-5b5e-4f4f-a238-14b9bcd92fef",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.250879,
+          35.8874839991
+        ]
+      },
+      "properties": {
+        "name": "机集落センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "5d2a11f4-7beb-43a5-b23c-8baa0c662927",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.08296722,
+          36.0750719355
+        ]
+      },
+      "properties": {
+        "name": "協和館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "87860ae6-873a-4da0-bbf3-da544df5e059",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.267183,
+          36.270699
+        ]
+      },
+      "properties": {
+        "name": "北古屋公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "bcb80292-e54e-477e-9841-d3b2baf9363c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.985879304,
+          35.9763177655
+        ]
+      },
+      "properties": {
+        "name": "宮木南公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "cf996f4c-5ca6-4112-a84b-0e6f9db20436",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.07926,
+          36.080353
+        ]
+      },
+      "properties": {
+        "name": "下諏訪町老人福祉センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e690b8c8-a297-4c39-a6de-d86dc27c79c1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.983359915,
+          35.982753041
+        ]
+      },
+      "properties": {
+        "name": "高畑公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "edf5a3b7-e2e0-43d6-b61a-8606195094d2",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.947851,
+          36.034485
+        ]
+      },
+      "properties": {
+        "name": "下村コミュニティーセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f6cc8961-6a61-4e51-88bd-8f32a4aa9dda",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.217399,
+          36.2089139991
+        ]
+      },
+      "properties": {
+        "name": "和田老人福祉センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f73340ce-89e4-456d-a49c-55b94301932c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.934020449,
+          35.6321394468
+        ]
+      },
+      "properties": {
+        "name": "中川村文化センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "1e332fba-a1c2-4f9b-bc89-e4654a077959",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.964809168,
+          35.8947349839
+        ]
+      },
+      "properties": {
+        "name": "北原公民館駐車場",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "2bb8eddb-89e2-49aa-a829-1775ce73a2ab",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.982885047,
+          35.8936699185
+        ]
+      },
+      "properties": {
+        "name": "久保旧公民館跡",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "3a523700-8937-458c-bf4b-64381d7f6648",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.973437263,
+          35.9550220991
+        ]
+      },
+      "properties": {
+        "name": "多屋公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "4753debc-9370-4d10-b95b-911d4c9923ee",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.933758478,
+          36.0319542208
+        ]
+      },
+      "properties": {
+        "name": "中村公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "93766330-69c6-445d-9168-08ffc68c8494",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.944522553,
+          35.7648015347
+        ]
+      },
+      "properties": {
+        "name": "宮田村老人福祉センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "ac61f9c7-c30b-4d66-b9de-ce4ca3d3e064",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.996563,
+          35.899609
+        ]
+      },
+      "properties": {
+        "name": "三日町公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "bb3ec9c5-9e36-4b4f-8129-8d2291bf51b3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.973538,
+          35.953213
+        ]
+      },
+      "properties": {
+        "name": "北大出ふれあいセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "bc819490-d60d-4e28-8fd4-07f93cc804b3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.89189,
+          35.604058
+        ]
+      },
+      "properties": {
+        "name": "上大島公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "c3cffc77-67a6-446e-a8da-98cecbdd2e4c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.989931078,
+          35.9775228153
+        ]
+      },
+      "properties": {
+        "name": "町社会体育館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "c5e9eef2-6a7a-41ea-b757-f25bd27612ae",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.908423,
+          35.992542
+        ]
+      },
+      "properties": {
+        "name": "川上生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "c615d1d4-0aaf-48c0-8ad2-3f56e46a5f28",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.003005295,
+          35.9237085904
+        ]
+      },
+      "properties": {
+        "name": "長岡公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "cb2d5ced-7f68-43bd-8388-36ee98203496",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.973860392,
+          36.0051597041
+        ]
+      },
+      "properties": {
+        "name": "上島公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "cfe47100-fc33-4837-a281-6302738bae3c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.991676228,
+          35.900478
+        ]
+      },
+      "properties": {
+        "name": "木下公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d139d214-2b91-4fba-8a02-0e6030fe1ef9",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.944012016,
+          35.8548088709
+        ]
+      },
+      "properties": {
+        "name": "沢尻コミュニティーセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d1617518-08b5-40dd-a89e-e0b8d7405329",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.933965608,
+          35.909995
+        ]
+      },
+      "properties": {
+        "name": "富田公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d8f94849-755d-473d-bcca-41e2163aa591",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.900345,
+          35.6179969991
+        ]
+      },
+      "properties": {
+        "name": "上片桐改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e5cc4a77-a1bc-450a-9638-052798ab4e3d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.91464,
+          35.751959
+        ]
+      },
+      "properties": {
+        "name": "宮田村文化会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "51ae8f77-fbab-4552-97ea-ec88961cce7f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.94106862,
+          35.7676456488
+        ]
+      },
+      "properties": {
+        "name": "町２区公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "60c7d370-f2f1-46b2-8160-ec13036b5b13",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.978641407,
+          35.8871497852
+        ]
+      },
+      "properties": {
+        "name": "中込公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "79185d51-17e8-4ab3-9de2-a7d9166f38e4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.972321209,
+          36.0300479924
+        ]
+      },
+      "properties": {
+        "name": "新田公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "be64ebb8-d63e-4f40-8fad-fc01b36b0b94",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.977037,
+          35.874267
+        ]
+      },
+      "properties": {
+        "name": "南箕輪村公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d5604e52-7d6c-40fe-9ee5-c43db768331a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.95361,
+          35.757803
+        ]
+      },
+      "properties": {
+        "name": "大久保集落センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "eea4079b-35e4-4c0e-bf64-04191983f128",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.980775334,
+          35.9816111235
+        ]
+      },
+      "properties": {
+        "name": "南湯舟公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f0411456-2dcb-4887-8a18-3c2a456bc5bd",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.995900594,
+          35.9600907618
+        ]
+      },
+      "properties": {
+        "name": "東樋口いきいき館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f408a911-85ba-4909-aff2-b769c04dbe89",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.945146,
+          35.7653449991
+        ]
+      },
+      "properties": {
+        "name": "宮田村民会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f6af0d4f-8dfe-4e48-a917-7f50d5801b62",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.641242519,
+          35.3094023016
+        ]
+      },
+      "properties": {
+        "name": "入川集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "8335848a-406f-439b-8f74-23cf4eb00f7c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.794931391,
+          35.3904392475
+        ]
+      },
+      "properties": {
+        "name": "北又公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "863103fa-c69a-4f32-af83-d305dc235ab3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.689329452,
+          35.3746697893
+        ]
+      },
+      "properties": {
+        "name": "中下町集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "88219187-74c1-44df-8824-90af91f9be14",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.819573183,
+          35.3968159353
+        ]
+      },
+      "properties": {
+        "name": "唐笠生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "99174760-d14b-464c-ab3d-c44c711cb603",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.885078,
+          35.550472
+        ]
+      },
+      "properties": {
+        "name": "ダサラ地区館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a5061a1f-b12b-4bd3-bc31-46878214801a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.833738867,
+          35.3869623849
+        ]
+      },
+      "properties": {
+        "name": "万場生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "afb6b7f6-1a24-4aea-b398-7410688c82fb",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.813809,
+          35.3165049991
+        ]
+      },
+      "properties": {
+        "name": "町民会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "b039c63e-ea1d-4a5a-8a5a-d2048aba3bac",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.827540529,
+          35.2614762304
+        ]
+      },
+      "properties": {
+        "name": "福島集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "be2ca5c8-fd5b-4069-ab29-6f558635817a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.836686452,
+          35.2498255251
+        ]
+      },
+      "properties": {
+        "name": "下山集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "bffbb201-f768-4c35-aa8b-ba01eeb7dacc",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.845931812,
+          35.377445482
+        ]
+      },
+      "properties": {
+        "name": "山村開発センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "caeef134-4149-415c-beee-01d2481f212c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.774987002,
+          35.380166748
+        ]
+      },
+      "properties": {
+        "name": "入野公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e7098aa9-60e0-475c-9ee8-58ba8486679d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.68695563,
+          35.3774293875
+        ]
+      },
+      "properties": {
+        "name": "宮本集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "ef47bc9d-cf46-4b54-bc5b-7576e1d34e1c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.792717666,
+          35.4207885292
+        ]
+      },
+      "properties": {
+        "name": "小松原コミュニティーセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f2e0c7b9-ca5a-4993-8dfa-a8659da63d3a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.682633316,
+          35.5040143209
+        ]
+      },
+      "properties": {
+        "name": "上清内路公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "2d681040-5d27-4ee1-a6d9-9787fa0dd242",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.811223848,
+          35.2711886877
+        ]
+      },
+      "properties": {
+        "name": "大久那集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "3d26b3c1-716b-4e07-9cf2-c54be84201e1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.692975,
+          35.3752159991
+        ]
+      },
+      "properties": {
+        "name": "浪合高齢者コミュニティーセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "8dddd7be-5a68-4aa5-9a64-92334ed6a9f8",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.873819044,
+          35.5722501635
+        ]
+      },
+      "properties": {
+        "name": "出原区民会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "90e24e09-7b15-4816-b695-f243ab4f1bfe",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.842800751,
+          35.2252863596
+        ]
+      },
+      "properties": {
+        "name": "上平集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a4fb25d9-ca67-4b83-b62f-492d1c164c63",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.704925333,
+          35.4902760283
+        ]
+      },
+      "properties": {
+        "name": "下清内路公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "c5434288-460a-4e69-b023-253804af0bbf",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.71821,
+          35.445565
+        ]
+      },
+      "properties": {
+        "name": "智里東公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "cec1176d-0d47-41dd-ac69-14f39e169241",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.82778415,
+          35.2615732653
+        ]
+      },
+      "properties": {
+        "name": "福島文化センター庭",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d939a21a-d162-470c-b77a-89a8ab645014",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.848136287,
+          35.3537259365
+        ]
+      },
+      "properties": {
+        "name": "あさぎり館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "dd833b17-7374-42c8-b5c3-0a50ecd687ab",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.849853348,
+          35.5535171712
+        ]
+      },
+      "properties": {
+        "name": "牛牧伝承館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f2a9d676-48f0-4c3a-a6af-eac72497712a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.764896609,
+          35.9327810479
+        ]
+      },
+      "properties": {
+        "name": "菅コミュニティー消防センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "0fb6fcde-b02b-44fa-8baa-2ca3ebace13b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.884612449,
+          35.520394726
+        ]
+      },
+      "properties": {
+        "name": "帰牛原公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "23bfb3b1-3810-44d3-a4c7-381e6e3bcd92",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.627348644,
+          35.5602003356
+        ]
+      },
+      "properties": {
+        "name": "蘭分館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "67e86ffa-b409-44ad-a3db-cabcf28a0007",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.783945275,
+          35.9358405945
+        ]
+      },
+      "properties": {
+        "name": "７区集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "91610a53-d549-4f31-acd0-f069c8173999",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.044968,
+          35.58801
+        ]
+      },
+      "properties": {
+        "name": "公民館鹿塩地区館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "9b009ef5-88c7-40b4-bd1f-6e768f677283",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.551017362,
+          35.5901119277
+        ]
+      },
+      "properties": {
+        "name": "田立分館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "b542e0c1-027f-4adb-93ee-91d17ea1851e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.548173768,
+          35.5893331755
+        ]
+      },
+      "properties": {
+        "name": "下切集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "be9d2ac1-85a7-4c4a-9316-1f70dbdb851b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.89964269,
+          35.483659954
+        ]
+      },
+      "properties": {
+        "name": "大和知農産物集出荷センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "cbbb9378-1a92-4ac1-9be9-f72dbaf1df35",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.609831072,
+          35.6025781564
+        ]
+      },
+      "properties": {
+        "name": "和合北集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "cf370013-b2b9-46ee-b54f-4a389a405221",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.530928478,
+          35.6059608311
+        ]
+      },
+      "properties": {
+        "name": "塚野集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d355df61-a0ce-46e1-bb1e-8e069481658d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.911900998,
+          35.5026816608
+        ]
+      },
+      "properties": {
+        "name": "加々須区民会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "0c882e84-9a32-4026-ada6-e791e22a1363",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.705184334,
+          35.7631082324
+        ]
+      },
+      "properties": {
+        "name": "小野集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "396df229-eac3-460a-85b0-edb19c753995",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.927270986,
+          35.5356679882
+        ]
+      },
+      "properties": {
+        "name": "御手形農事研修センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "558dcbb3-2a9f-40db-ab93-38afeb7ea519",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.884555,
+          35.5203929991
+        ]
+      },
+      "properties": {
+        "name": "喬木村第一公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "59ff3ea4-8954-4aa0-89b9-9eb8df08bb5a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.886457434,
+          35.4829759963
+        ]
+      },
+      "properties": {
+        "name": "富田陶芸館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "7dd8c46d-42f5-4c4f-88df-67f8d519ae12",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.685006304,
+          35.8066734397
+        ]
+      },
+      "properties": {
+        "name": "北上条公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a80ac957-2180-4a7b-a71b-c3dedf79dc22",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.712219218,
+          35.7286165246
+        ]
+      },
+      "properties": {
+        "name": "倉本集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "afe9070d-ae1a-467e-b46c-b72d3a202e9b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.556122,
+          35.588623
+        ]
+      },
+      "properties": {
+        "name": "元組集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "cf92671a-4a50-4e1f-aef5-c544e62f4235",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.783562876,
+          35.9317437793
+        ]
+      },
+      "properties": {
+        "name": "郷土館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d215db50-c625-455c-92d8-bdbb9cf3d56c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.542176348,
+          35.5866791678
+        ]
+      },
+      "properties": {
+        "name": "下切生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "dae7f445-69c4-4863-a9be-7f27f022482a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.607976969,
+          35.6085754021
+        ]
+      },
+      "properties": {
+        "name": "川向集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "dbbb988b-068d-466e-97b4-a8143719d495",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.663219898,
+          35.7714109597
+        ]
+      },
+      "properties": {
+        "name": "西中生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e12f8f8f-9c8c-4b00-a5f8-b7cbf5142bb7",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.90864,
+          35.5375599991
+        ]
+      },
+      "properties": {
+        "name": "豊丘村民体育館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "ec8edea0-9309-4c1e-9304-54583f0b0b8a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.593063412,
+          35.5723723081
+        ]
+      },
+      "properties": {
+        "name": "尾又集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f33b6837-bc74-4160-aa87-d802b8f6a6f6",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.700018,
+          35.8519909991
+        ]
+      },
+      "properties": {
+        "name": "木曽福島会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "9bf85682-8025-44be-bb48-f507a49108c3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.944490232,
+          36.4541740279
+        ]
+      },
+      "properties": {
+        "name": "大日向生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a3ab37d9-d6ff-450e-ad05-b7067192df73",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.738654328,
+          35.8677136716
+        ]
+      },
+      "properties": {
+        "name": "元原生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a59be2b5-5ac3-452c-8090-4984c8196040",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.750613,
+          35.86006
+        ]
+      },
+      "properties": {
+        "name": "新地アクティビティーセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "ae5dfd49-e258-4ba1-8f34-8de7d4c8810f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.76263942,
+          35.8881711759
+        ]
+      },
+      "properties": {
+        "name": "旭町生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "baaa0afc-55e2-4d82-9b5b-2fd58df66689",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.764339,
+          35.8963349991
+        ]
+      },
+      "properties": {
+        "name": "徳音寺コミュニティーセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "bb6cecf6-7480-4c4f-9e0a-64320869f1f8",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.573691184,
+          35.8658694391
+        ]
+      },
+      "properties": {
+        "name": "屋敷野地区集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "c2d7f543-3e69-471b-bc92-d69dee92310b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.549849779,
+          35.8109457967
+        ]
+      },
+      "properties": {
+        "name": "王滝村国民体育館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "cc58872f-0bd2-418d-8c69-b0e871a75dc4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.572146,
+          35.938563
+        ]
+      },
+      "properties": {
+        "name": "開田高原体育館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "df8b7832-f217-4795-86d8-f2c6be9ee156",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.963646912,
+          36.4600789934
+        ]
+      },
+      "properties": {
+        "name": "込地公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e30e171f-cf51-4e38-9f70-b03472335379",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.87721,
+          36.168563
+        ]
+      },
+      "properties": {
+        "name": "ふれあいの館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e742942b-9e2e-40d0-aaa4-02998215a4f7",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.551855062,
+          35.8098651492
+        ]
+      },
+      "properties": {
+        "name": "下条区公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "ff0b554d-36d8-4c8d-aed7-6fc1e5e6b877",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.877592259,
+          36.1687571292
+        ]
+      },
+      "properties": {
+        "name": "山形村農業者トレーニングセンターグラウンド",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "ff797b1a-84b2-487d-be40-0e03314296c4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.700609,
+          35.859601
+        ]
+      },
+      "properties": {
+        "name": "木曽福島体育館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "3ab11dd5-5029-403f-8833-7f4b5d0d806a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.682464812,
+          35.9045697556
+        ]
+      },
+      "properties": {
+        "name": "上中入生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "7a27c27f-9801-46b0-a5ac-121139cf830a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.554736923,
+          35.8136765495
+        ]
+      },
+      "properties": {
+        "name": "東区公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "93c52b80-5bb0-484a-b0ee-89941c4135a1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.925233,
+          36.429458
+        ]
+      },
+      "properties": {
+        "name": "生坂村Ｂ＆Ｇ海洋センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "96aaba02-0076-40f7-922a-d6c58d76c81c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.59793584,
+          35.860014604
+        ]
+      },
+      "properties": {
+        "name": "中央部分館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "9efb0f7c-1ed5-41db-967a-4352d7b75773",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.759215362,
+          35.8882049301
+        ]
+      },
+      "properties": {
+        "name": "山吹館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a0ccae26-6859-43a4-bae1-05bd3da1ef57",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.691904956,
+          35.6966260929
+        ]
+      },
+      "properties": {
+        "name": "須原地区館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a3e068b3-1569-4ff2-8d8d-ef535918c15e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.553712,
+          35.808886
+        ]
+      },
+      "properties": {
+        "name": "王滝村公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "dc3dc355-626d-41ca-9f1d-7bd6872e7d53",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.588414058,
+          35.8959358649
+        ]
+      },
+      "properties": {
+        "name": "倉本集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f6d0917a-b9f0-4e7d-ba8e-3dd7839aba84",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.675187724,
+          35.8229928179
+        ]
+      },
+      "properties": {
+        "name": "川合生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "fcf3101d-cb31-448d-b8e4-1a139a0f82ec",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.862272406,
+          36.6983498372
+        ]
+      },
+      "properties": {
+        "name": "役場駐車場（多目的集会施設、ふれあいセンター）",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "6b1a1959-56c3-451e-a49b-85a37e9752ab",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.007229957,
+          36.3831694074
+        ]
+      },
+      "properties": {
+        "name": "乱橋活性化施設みなくる館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "7c6b4aec-717f-4ec0-b3ed-3c790f478ceb",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.908630665,
+          36.4080545432
+        ]
+      },
+      "properties": {
+        "name": "東山夢の郷コミュニティーセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "9bf5c3b6-72bd-43b4-890c-3b8377985c04",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.834593666,
+          36.1146040018
+        ]
+      },
+      "properties": {
+        "name": "緑の体験館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d4e901da-c115-4ef8-9cdb-a92251c2ca3e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.858894756,
+          36.6900328523
+        ]
+      },
+      "properties": {
+        "name": "Ｂ＆Ｇ体育館駐車場（Ｂ＆Ｇ体育館）",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "ed9a7f57-d328-479c-9e80-31bcc51d09c4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.015712,
+          36.4260959991
+        ]
+      },
+      "properties": {
+        "name": "坂北デイサービスセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f383184d-de33-4032-b327-6d91803b6aa4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.183077652,
+          36.4636
+        ]
+      },
+      "properties": {
+        "name": "中心市街地コミュニティセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f53d517a-8076-4453-9e68-f214690e7327",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.876605277,
+          36.7114555278
+        ]
+      },
+      "properties": {
+        "name": "塩島基幹センター前（基幹センター）",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "fc8165e8-524c-4624-bbaf-eb966006a12f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.17142113,
+          36.4547367537
+        ]
+      },
+      "properties": {
+        "name": "上五明公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "66cf0a99-c3c1-44c1-838a-74cac82b91ae",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.84449,
+          36.69193
+        ]
+      },
+      "properties": {
+        "name": "瑞穂体育館前（瑞穂体育館広場）",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "863f6d5a-7609-4d9f-8ca7-83cd831eabc3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.197845925,
+          36.4311325766
+        ]
+      },
+      "properties": {
+        "name": "新地団地集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "9edd46e3-062b-4d8f-9f8e-520529567d41",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.078842392,
+          36.4536418601
+        ]
+      },
+      "properties": {
+        "name": "松場公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a4385cbc-ac34-435f-b49d-a3ee9fac5965",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.892715501,
+          36.4202286393
+        ]
+      },
+      "properties": {
+        "name": "相道寺集落センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a75b4c74-abb4-4755-91cd-90d429e54d1f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.848615439,
+          36.4249653058
+        ]
+      },
+      "properties": {
+        "name": "中部会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a94a1898-8a2d-4f5c-8ea8-4c2bcc2c02a8",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.165438667,
+          36.4686724431
+        ]
+      },
+      "properties": {
+        "name": "苅屋原公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "acaa1403-db04-4e83-b6f7-a6dfad96695f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.872477339,
+          36.707301737
+        ]
+      },
+      "properties": {
+        "name": "八方第５駐車場（文化会館）",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "ae7036da-82c4-4db5-b2de-ea156c76d551",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.008218,
+          36.41246
+        ]
+      },
+      "properties": {
+        "name": "本城体育館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "c3908055-20fc-4be9-b4bb-3b3ec999be84",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.20747979,
+          36.4409614379
+        ]
+      },
+      "properties": {
+        "name": "入横尾公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "cbcd81e6-b181-4c30-8575-4bc5134035ad",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.008318,
+          36.412796
+        ]
+      },
+      "properties": {
+        "name": "本城公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d2cfa765-90c5-4822-9955-70fa38330d8f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.926499006,
+          36.8052368598
+        ]
+      },
+      "properties": {
+        "name": "土谷生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e58ccb3c-fde8-42c7-a8fb-f4cdba4d0f10",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.177135,
+          36.450168
+        ]
+      },
+      "properties": {
+        "name": "月見区集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e6903aff-65cf-4e1c-b8d6-61cacd96c240",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.868548072,
+          36.70758
+        ]
+      },
+      "properties": {
+        "name": "森上基幹センター前（基幹センター）",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f4b1f8d5-7095-4d63-a4d3-eb192cc766e5",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.860658,
+          36.411238
+        ]
+      },
+      "properties": {
+        "name": "生涯学習センター（グリーンワークまつかわ）",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f4ffabd3-5c3f-4198-b13a-41224ec3f300",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.327461072,
+          36.6955012356
+        ]
+      },
+      "properties": {
+        "name": "６次産業センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f72b2f4a-5597-4acf-8753-01ccf1cf4f6e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.193361522,
+          36.4267420945
+        ]
+      },
+      "properties": {
+        "name": "鼠公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f7946a93-5b4d-41ab-8400-ce871b9080ec",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.894729031,
+          36.3734751006
+        ]
+      },
+      "properties": {
+        "name": "南台コミュニティーセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "fd6da9e8-2e47-4a30-9730-4aca748bf30b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.889798507,
+          36.385336373
+        ]
+      },
+      "properties": {
+        "name": "渋南転作研修センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "fef66652-6aaf-4869-86d6-b455f88cb962",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.423252012,
+          36.8332378795
+        ]
+      },
+      "properties": {
+        "name": "部谷沢生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "6723ef9d-7427-4f1b-9aba-64720d2cfb9e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.443186,
+          36.916542
+        ]
+      },
+      "properties": {
+        "name": "中尾集落センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "67f1587f-aae9-42d8-9344-06373ab20889",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.402744775,
+          36.7588730564
+        ]
+      },
+      "properties": {
+        "name": "本郷区民会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "89f70a48-dba5-46ec-a82f-7a4d42cdef44",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.40626,
+          36.857548
+        ]
+      },
+      "properties": {
+        "name": "木島平村体育館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a4420a93-92d6-4b69-9073-41bc0030b32f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.403808042,
+          36.7226940182
+        ]
+      },
+      "properties": {
+        "name": "寒沢集落センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "b5e952c2-d03e-4743-b071-12e95e6e4206",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.44618158,
+          36.924954873
+        ]
+      },
+      "properties": {
+        "name": "真湯生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "c91143ce-1468-4fef-9f4a-5ce3b238a092",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.447533423,
+          36.9600554149
+        ]
+      },
+      "properties": {
+        "name": "虫生活性化センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e07342e1-8453-4462-bdb7-b9a69c88807e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.406439,
+          36.731563
+        ]
+      },
+      "properties": {
+        "name": "ほなみふれあいセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "e31ba33f-731f-476b-a044-b54cc6b07ca8",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.419403711,
+          36.7356559533
+        ]
+      },
+      "properties": {
+        "name": "穂波温泉区コミュニティーセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f3919160-bfff-4d3e-b973-df0986586bad",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.437036317,
+          36.8179444319
+        ]
+      },
+      "properties": {
+        "name": "糠千分館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f4d5949f-07b7-4753-8f77-ff0908d7e658",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.201825,
+          36.805879
+        ]
+      },
+      "properties": {
+        "name": "総合会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f6c23a8e-adc7-44f9-8a07-369c0f50d1a2",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.417280321,
+          36.8450110164
+        ]
+      },
+      "properties": {
+        "name": "創作館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f9910bb3-4cd8-47c2-9165-4a770844fa39",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.437208266,
+          36.7951909386
+        ]
+      },
+      "properties": {
+        "name": "中須賀川多目的集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "fc89d246-27e8-4391-bcf1-abdef64d762d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.425349531,
+          36.8516209626
+        ]
+      },
+      "properties": {
+        "name": "千石生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "52295729-1001-4397-8b97-11ee1cb245df",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.414653965,
+          36.86873594
+        ]
+      },
+      "properties": {
+        "name": "和栗生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "6b802f6d-e976-42f5-aa97-ca08a78a8982",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.447311094,
+          36.8673482076
+        ]
+      },
+      "properties": {
+        "name": "馬曲分館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "95284dbf-4dcf-4c05-9632-c9679fa46399",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.322115826,
+          36.6891735871
+        ]
+      },
+      "properties": {
+        "name": "上松川コミュティセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "b26d7b1c-9cbe-4ce1-b506-ac122fc37e7c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.44565084,
+          36.9199419962
+        ]
+      },
+      "properties": {
+        "name": "新田生活改善センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "eddf2e68-fcec-470d-867b-d018ed60f4e4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.409596507,
+          36.7502272923
+        ]
+      },
+      "properties": {
+        "name": "下手集会所",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "eea207c2-f2d3-434b-8fee-69a8ad75ab2c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.422336,
+          36.672433
+        ]
+      },
+      "properties": {
+        "name": "高山村高齢者交流センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f1e8de47-2d78-40a1-a9f5-6f51c34b0741",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.563264232,
+          35.6744262499
+        ]
+      },
+      "properties": {
+        "name": "支援センターみさき",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "72674d71-0889-4885-a111-04010a1f495a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.56441171,
+          35.598370136
+        ]
+      },
+      "properties": {
+        "name": "大津ケアセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "aa9928c4-b63a-4573-9406-352a6cd21c2c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.541632,
+          35.647381
+        ]
+      },
+      "properties": {
+        "name": "甲府市貢川福祉センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "b691b455-cd95-4050-bbb4-2f2c6caa1e0d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.543494,
+          36.974476
+        ]
+      },
+      "properties": {
+        "name": "月岡公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "bb94907e-e614-4f3a-92a0-e24b74d219b7",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.235508696,
+          36.7550505644
+        ]
+      },
+      "properties": {
+        "name": "飯綱福祉センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d246074b-fd96-4086-8d1f-7d6441b5ebab",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.575084,
+          36.948349
+        ]
+      },
+      "properties": {
+        "name": "原向公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "ee21b60d-c20e-4bed-ac3b-0508ae6ced5e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.572348,
+          36.938378
+        ]
+      },
+      "properties": {
+        "name": "天代公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f6e820ae-fbac-4cd3-80fc-e373497a2c9e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.609918567,
+          35.5309104525
+        ]
+      },
+      "properties": {
+        "name": "甲府市上九の湯ふれあいセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "fcf8edba-0922-45ad-a654-a984d9cb12a4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.575781594,
+          36.9355987457
+        ]
+      },
+      "properties": {
+        "name": "北野公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "fd0467a9-4dfd-4e50-a634-baddfec3038d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.565869,
+          35.656464
+        ]
+      },
+      "properties": {
+        "name": "市自治研修センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "6a721c74-b9d2-4b35-aadc-d6e5dcc71580",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.560673438,
+          35.5966124006
+        ]
+      },
+      "properties": {
+        "name": "甲府浄化センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "781244f2-2c2f-494a-9549-7c9f0670225f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.584591,
+          36.972138
+        ]
+      },
+      "properties": {
+        "name": "柳在家公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "84027c89-0ec6-4873-a8e2-6cd0c10c3a48",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.564242378,
+          36.9901505492
+        ]
+      },
+      "properties": {
+        "name": "青倉公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "96a5e768-7cba-4f1f-a0b4-9ab2cda0ca34",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.257929826,
+          36.7560600854
+        ]
+      },
+      "properties": {
+        "name": "倉井コミュニティ消防センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "d3472d7e-edbf-430c-baeb-9f6a107487fd",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.23831881,
+          36.742018049
+        ]
+      },
+      "properties": {
+        "name": "牟礼Ｂ＆Ｇ海洋センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "f03e4eac-7335-4708-b023-3dc1f4657b12",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.949188379,
+          35.6158675381
+        ]
+      },
+      "properties": {
+        "name": "大月市民会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a101a631-acee-4316-963b-fe43c5bc6f2b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.797271,
+          35.4992389991
+        ]
+      },
+      "properties": {
+        "name": "浅間町会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "a8acdf7b-0525-4a5d-9fa9-104a5370c66d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.829035,
+          35.5135889991
+        ]
+      },
+      "properties": {
+        "name": "寿町会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "c670bb34-7f4f-4b8e-ac5d-a7a456f3f6da",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.57988,
+          35.614181
+        ]
+      },
+      "properties": {
+        "name": "南部市民センター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "2f192f05-5ac1-458a-b72d-e8c38f50d79f",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.688108,
+          35.682878
+        ]
+      },
+      "properties": {
+        "name": "加納岩公民館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "6fbececf-b271-46f0-9a1d-ff0aa012963a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.784556,
+          35.4850479991
+        ]
+      },
+      "properties": {
+        "name": "松山会館",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "7d9b61e8-4552-4844-a2ae-cab3e54a860a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.714347927,
+          35.7401745836
+        ]
+      },
+      "properties": {
+        "name": "牧丘町コミュニティセンター",
+        "primary": "civic",
+        "tags": [
+          "civic"
+        ],
+        "dataId": "93e8d4dc-99a7-4504-9d1d-70f04da81dcf",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    }
+  ]
+}

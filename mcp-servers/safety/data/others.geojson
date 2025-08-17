@@ -1,0 +1,1853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79916666666668,
+          35.74805555555556
+        ]
+      },
+      "properties": {
+        "name": "Ｒ５亀有・万世橋出張所管内屋外無線ＬＡＮ設備他設置工事",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "1996f507-7933-494d-b062-cb67f04cd883",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.51608,
+          34.288306
+        ]
+      },
+      "properties": {
+        "name": "平成30年7月　豪雨災害の記録天応7",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "87e70295-90bc-4753-a936-bdafab06f914",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.112817,
+          37.113888
+        ]
+      },
+      "properties": {
+        "name": "黒川災害復旧助成事業竣工記念",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "2c2a2319-308d-4ab1-84cd-88d562dc9d92",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.517183911,
+          36.3098155601
+        ]
+      },
+      "properties": {
+        "name": "御代田町営雪窓球場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "e0a346b0-9a9c-4485-b002-2eb36eed99c1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.63747107,
+          36.34541948
+        ]
+      },
+      "properties": {
+        "name": "矢ヶ崎公園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "fe658141-c2ce-453c-90e0-2deef0d522e4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.208659989,
+          35.9037221722
+        ]
+      },
+      "properties": {
+        "name": "入笠山登山口トイレ庭",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "0613dc0e-5980-4cd0-b410-a59fb9738d52",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.232123363,
+          35.9353994948
+        ]
+      },
+      "properties": {
+        "name": "南原運動広場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "4467be17-0540-4336-ace9-55a865d77c61",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.236782,
+          35.9131909991
+        ]
+      },
+      "properties": {
+        "name": "コミュニティ・プラザ",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "7772a7cc-56ec-485c-a06c-3d96598dfc61",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.276911,
+          35.863269
+        ]
+      },
+      "properties": {
+        "name": "道の駅信州蔦木宿",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "7eca9143-147d-4b48-9caa-f4edc0073a9d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.267583,
+          36.2581055973
+        ]
+      },
+      "properties": {
+        "name": "長門柔剣道場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "92f7c656-9257-49f6-ad80-8431a55713a7",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.266913663,
+          35.971675667
+        ]
+      },
+      "properties": {
+        "name": "八ヶ岳自然文化園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "9e6135b9-cdc8-4d5c-8df4-8ed8ba46f372",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.268488,
+          36.251371
+        ]
+      },
+      "properties": {
+        "name": "長案寺（協定締結）",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "b78f975b-5605-430c-972d-ce5e5f388334",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.00315999,
+          35.9918443691
+        ]
+      },
+      "properties": {
+        "name": "ほたる童謡公園（平出側）",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "bcda927a-b086-47c2-a235-ce5bf8328145",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.199692029,
+          35.963984693
+        ]
+      },
+      "properties": {
+        "name": "柏木農村広場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "dd0d4332-a440-40ed-852b-ba9f83447f96",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.215459297,
+          35.9134564929
+        ]
+      },
+      "properties": {
+        "name": "大平区グランド",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "0aba0c19-731b-4297-8e68-b50a89b568fa",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.225825083,
+          35.896975227
+        ]
+      },
+      "properties": {
+        "name": "木之間区運動場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "4404cd31-7bfc-419a-9012-aa1d827cdcb1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.099058,
+          36.100731
+        ]
+      },
+      "properties": {
+        "name": "萩倉公会所",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "8a2023b5-4d6b-4146-afd1-d4f3b2f9feb7",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.078592806,
+          36.0696536725
+        ]
+      },
+      "properties": {
+        "name": "あすなろ公園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "be50a1f4-d76e-4f75-abab-417cc2ddfbc6",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.07619056,
+          36.06954268
+        ]
+      },
+      "properties": {
+        "name": "砥川西公園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "c7cf3186-ea93-45e3-923b-be3ea1836f88",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.97690718,
+          35.9544876663
+        ]
+      },
+      "properties": {
+        "name": "大日堂",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "24dd72e5-8ebf-4b10-b85f-4024db840cd0",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.985296408,
+          35.8841848103
+        ]
+      },
+      "properties": {
+        "name": "（株）ハーモ駐車場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "55da2c35-e878-4e07-adfe-2c483b615fdc",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.978325366,
+          35.8718089443
+        ]
+      },
+      "properties": {
+        "name": "上伊那農協南箕輪支所駐車場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "9e6bd461-72dc-418e-883e-6a2288c0ac0b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.916300332,
+          35.6645695849
+        ]
+      },
+      "properties": {
+        "name": "柏木運動場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "e7b7b46a-26b8-4445-af73-0edb2a0c3bbf",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.953791952,
+          35.8641167214
+        ]
+      },
+      "properties": {
+        "name": "上伊那農協広域選果場駐車場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "60351700-3418-4607-a4e1-acdf13d7156e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.939177154,
+          35.6996714853
+        ]
+      },
+      "properties": {
+        "name": "田切野球場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "aef9b910-ebf4-444d-ab8e-93fa157b13e1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.980128667,
+          35.9196715273
+        ]
+      },
+      "properties": {
+        "name": "セイコーエプソングランド",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "f94146f8-bb3f-475d-b6bb-ea50b711095b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.842428,
+          35.377807
+        ]
+      },
+      "properties": {
+        "name": "泰阜北保育所",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "9f4b0684-936a-47e7-a2f0-e31e7bd64993",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.795486,
+          35.391203
+        ]
+      },
+      "properties": {
+        "name": "下條保育所",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "cf8ab7ca-cb69-4737-b695-6144b500cc67",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.750336365,
+          35.2319379861
+        ]
+      },
+      "properties": {
+        "name": "大河内多目的集会施設",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "faa68811-b7f1-431f-a2aa-2f3f56d56957",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.69044,
+          35.3742249991
+        ]
+      },
+      "properties": {
+        "name": "浪合コアホール（浪合支所）",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "fba06e2d-f835-4b9d-bf07-b3a759400a4e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.785685,
+          35.2469979991
+        ]
+      },
+      "properties": {
+        "name": "どんぐり向方学園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "5e0f78d5-d589-4963-b77a-db43faed9aa6",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.627113,
+          35.321652
+        ]
+      },
+      "properties": {
+        "name": "平谷保育所",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "69775c10-5424-4008-8a4b-949001b9ed6b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.874413038,
+          35.5180734424
+        ]
+      },
+      "properties": {
+        "name": "Ａコープ喬木店駐車場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "b35d2258-e16e-4232-972f-2d4bf40ee0ed",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.902829,
+          35.5731
+        ]
+      },
+      "properties": {
+        "name": "高森荘",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "f5ab4741-c067-4327-b9a7-3078fd5c5a38",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.908552543,
+          35.56531801
+        ]
+      },
+      "properties": {
+        "name": "りんごっ子公園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "2b461d5f-1e86-464e-9837-cb1dd24432d9",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.713065017,
+          35.7479306823
+        ]
+      },
+      "properties": {
+        "name": "下河原運動場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "78662528-e801-4852-a26d-ff945b7422e1",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.892386,
+          35.54552
+        ]
+      },
+      "properties": {
+        "name": "豊丘中央保育所",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "78c5dae2-31fd-4068-89b5-e88569ba3000",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.690016,
+          35.797886
+        ]
+      },
+      "properties": {
+        "name": "新茶屋旧道",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "8263d422-6d45-4dfd-92f2-fbf8938a2ad3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.784308391,
+          35.936749622
+        ]
+      },
+      "properties": {
+        "name": "旧庁舎",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "a76931f0-514c-4e66-91e8-e7c68c156ce8",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.708432433,
+          35.7730696331
+        ]
+      },
+      "properties": {
+        "name": "寝覚運動場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "e77b764e-15b9-44aa-98ea-dfaea5fda8be",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.93378122,
+          35.557026967
+        ]
+      },
+      "properties": {
+        "name": "堀越天神グランド",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "41edcbf5-a859-46ec-a53e-e3709abe03ba",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.702757841,
+          35.7708711303
+        ]
+      },
+      "properties": {
+        "name": "ねざめホテル",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "614da091-b870-4fa9-a9d6-7b033925e238",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.943750018,
+          35.4997409807
+        ]
+      },
+      "properties": {
+        "name": "大島山の家",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "b82a9334-caa5-4a47-91bb-32248f832057",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.92304571,
+          35.5766973314
+        ]
+      },
+      "properties": {
+        "name": "滝川会所",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "c9129682-5da6-4fe4-a8a7-1611dafb99a4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.878477353,
+          35.5250852241
+        ]
+      },
+      "properties": {
+        "name": "平安祭典喬木斎場駐車場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "d20742ab-dbdc-473a-a1c7-61bd3edc2125",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.87386,
+          35.5138289991
+        ]
+      },
+      "properties": {
+        "name": "役場庁舎前",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "f649364f-bacb-4d96-92e1-cc69f1db4470",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.689425811,
+          35.7789757167
+        ]
+      },
+      "properties": {
+        "name": "関西電力社宅前広場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "f9c359da-3ea0-400f-aae3-6bec7e7e21ce",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.687907116,
+          35.8391692677
+        ]
+      },
+      "properties": {
+        "name": "木曽合同庁舎駐車場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "672b8f03-b7e7-4fa1-a29c-70eba5ec6cfa",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.784847621,
+          35.9338535808
+        ]
+      },
+      "properties": {
+        "name": "薮原保育所",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "af0e3de4-1859-4ff9-b674-2e64aa7b3ea4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.925659825,
+          36.4313196268
+        ]
+      },
+      "properties": {
+        "name": "生坂村総合グランド",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "d684cee9-6624-4c1e-a8cf-cc23b0a9cae3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.038416096,
+          36.4546730415
+        ]
+      },
+      "properties": {
+        "name": "麻績村総合グランド",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "e04f9107-2daf-4340-be54-fd598164ca73",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.74627789,
+          35.8754292842
+        ]
+      },
+      "properties": {
+        "name": "日義野球場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "ccd43ea1-ee34-4cc6-ac11-34340bfd558e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.541937,
+          35.8066516219
+        ]
+      },
+      "properties": {
+        "name": "小川テニスコート",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "f521b8d2-2d2f-45a2-b68d-7489b0a12f9a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.58069131,
+          35.9601787098
+        ]
+      },
+      "properties": {
+        "name": "駒背グラウンド",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "f7f44734-e90d-4aa2-be37-0aa5a93c30ed",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.86454589,
+          36.4169753568
+        ]
+      },
+      "properties": {
+        "name": "コミュニティ施設赤芝",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "f326cb6d-94b1-4284-b162-18daea30ac47",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.832104287,
+          36.1119400086
+        ]
+      },
+      "properties": {
+        "name": "緑のコロシアム",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "8ef478db-7cfd-430f-9d8c-abb679c24f70",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.855603209,
+          36.4254051915
+        ]
+      },
+      "properties": {
+        "name": "東松川南区公園（ふれあい公園）",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "e6134607-a4c3-4d8c-86b5-196d9be15d77",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.876721,
+          36.391441
+        ]
+      },
+      "properties": {
+        "name": "安曇養護学校グランド",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "ead76733-8b56-487b-a477-965eb9060049",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.41606,
+          36.739357
+        ]
+      },
+      "properties": {
+        "name": "星乃湯公会堂",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "88d3e0c8-40a9-459e-a6f3-dd6f58b1064d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.365854871,
+          36.6875813277
+        ]
+      },
+      "properties": {
+        "name": "北部運動広場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "9fbe0453-63fe-43ba-95c6-058e9d09356c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.372290525,
+          36.6810903674
+        ]
+      },
+      "properties": {
+        "name": "ゆうゆう広場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "b1fdb603-3b8f-4f05-9123-afd123a1d5d4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.427823635,
+          36.7273064608
+        ]
+      },
+      "properties": {
+        "name": "角間公会堂",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "d51e1672-0017-4bba-80ae-6b0d4bc41414",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.436379935,
+          36.9443976495
+        ]
+      },
+      "properties": {
+        "name": "矢垂農業改善施設",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "ec67179e-b165-4e1c-ae19-4791c039fa4e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.44372662,
+          36.7849490368
+        ]
+      },
+      "properties": {
+        "name": "乗廻公会堂",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "f006cd6c-51de-42b6-8765-403bf9dd929c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.458750134,
+          36.6700227636
+        ]
+      },
+      "properties": {
+        "name": "カリヨンホール",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "fc247ecb-36f0-4fc5-8253-1a09827937cc",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.208495085,
+          36.7863119839
+        ]
+      },
+      "properties": {
+        "name": "いこいの家",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "a90bcdc0-9d93-4a0d-b66d-4a0ef9a1d062",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.426571578,
+          36.7369605069
+        ]
+      },
+      "properties": {
+        "name": "金倉公会堂",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "fb5a85c1-b5e3-43fe-b5f8-df7efe4983ab",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.602523359,
+          35.6564806995
+        ]
+      },
+      "properties": {
+        "name": "山梨学院大第３駐車場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "36a596ba-973c-4ed9-ad0f-702df368baa4",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.54198452,
+          35.68445811
+        ]
+      },
+      "properties": {
+        "name": "千塚公園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "4dd48dd4-d619-4316-873a-840ad891660a",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.565335334,
+          35.7382643195
+        ]
+      },
+      "properties": {
+        "name": "県営能泉駐車場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "5978aab6-af92-48eb-977b-dd6d33352d17",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.565339436,
+          35.6484320293
+        ]
+      },
+      "properties": {
+        "name": "荒川緑地（千秋橋上流右岸）",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "74bf8574-5936-47f4-9013-ee26294c9b50",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.56159786,
+          35.69081051
+        ]
+      },
+      "properties": {
+        "name": "和田堀公園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "76ccd75a-90cd-45a3-8d24-bd1aa90fd0af",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.528666,
+          36.984127
+        ]
+      },
+      "properties": {
+        "name": "特別養護老人ホーム「フランセーズ悠さかえ」",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "842c772d-c1b0-486b-bb40-7d7d51046a65",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.587377,
+          35.664629
+        ]
+      },
+      "properties": {
+        "name": "かえで支援学校",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "b3b24790-c4ef-4de1-94f2-7912523b82ad",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.548352,
+          35.690847
+        ]
+      },
+      "properties": {
+        "name": "きぼうの家",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "b535f1f2-0a2f-4892-b224-9a939ffeb30d",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.610062,
+          35.5307789991
+        ]
+      },
+      "properties": {
+        "name": "上九一色出張所",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "e74604d4-06c4-40ad-b248-4dabb48ea488",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.58441772,
+          35.63855056
+        ]
+      },
+      "properties": {
+        "name": "住吉第３公園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "6aa3a54f-ea08-42b6-8afa-fe33e85b193c",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.55902736,
+          35.68138269
+        ]
+      },
+      "properties": {
+        "name": "緑が丘運動公園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "77499498-e44c-4854-9708-9d4933785048",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.56772458,
+          35.65986015
+        ]
+      },
+      "properties": {
+        "name": "中央公園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "7daad0fc-518c-4c95-afd3-6dc1d123504b",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.566553204,
+          35.6661348497
+        ]
+      },
+      "properties": {
+        "name": "ダイタ駅前第一・第二駐車場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "8d85f752-0650-4fea-aecf-bf0bbdd198ea",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.595648,
+          35.631358
+        ]
+      },
+      "properties": {
+        "name": "春光園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "a151204f-8e44-4efa-94d8-a3806ebc164e",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.546769,
+          35.6834029991
+        ]
+      },
+      "properties": {
+        "name": "ＮＡＣ湯村",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "e8978fac-a825-4deb-86b1-2b6e1cffd058",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.566149571,
+          35.6485737402
+        ]
+      },
+      "properties": {
+        "name": "荒川緑地（千秋橋上流左岸）",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "ff74265d-c42f-4cd3-8b34-64237217a5a9",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.686053594,
+          35.7584113966
+        ]
+      },
+      "properties": {
+        "name": "オーチャードヴィレッジ・フフ",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "beac7472-2a76-40c2-8f17-e97b214b9de8",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.429509934,
+          35.7245567639
+        ]
+      },
+      "properties": {
+        "name": "雇用促進住宅広場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "f5482b82-f83a-4e90-ac9c-e6af67441aa7",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.910963139,
+          35.5589892553
+        ]
+      },
+      "properties": {
+        "name": "畳屋上駐車場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "fbc60a79-4d80-47cd-bd37-7d424714f0be",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.805385,
+          35.455362
+        ]
+      },
+      "properties": {
+        "name": "富士散策公園",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "827b3de1-fc0a-4c24-92c7-2f5ef6a678d6",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.886859209,
+          35.5393666072
+        ]
+      },
+      "properties": {
+        "name": "元富士精工広場",
+        "primary": "other",
+        "tags": [
+          "other"
+        ],
+        "dataId": "9ea0a65e-13a6-45d0-81ae-5d8a6b010dd3",
+        "municipality": null,
+        "prefecture": null,
+        "source": "MLIT"
+      }
+    }
+  ]
+}
